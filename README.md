@@ -5,7 +5,7 @@ A simple, responsive personal landing page (Linktree-style) built with plain HTM
 ## Files
 
 - `index.html`: landing page — greeting plus the section buttons
-- `academics.html`, `standardised-testing.html`, `projects.html`, `research.html`, `internships.html`, `competitions.html`: one page per button (currently placeholders)
+- `academics.html`, `projects.html`, `research.html`, `internships.html`, `competitions.html`: one page per button (currently placeholders)
 - `style.css`: colours, layout and responsive styles
 - `script.js`: small extras such as the footer year
 
