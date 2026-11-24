@@ -1,22 +1,17 @@
 # Portfolio Website
 
-A simple, responsive personal portfolio built with plain HTML, CSS and JavaScript. No build step needed.
+A simple, responsive personal landing page (Linktree-style) built with plain HTML, CSS and JavaScript. No build step needed.
 
 ## Files
 
-- `index.html`: page content (about, projects, skills, contact)
+- `index.html`: landing page — greeting plus the section buttons
+- `academics.html`, `standardised-testing.html`, `projects.html`, `research.html`, `internships.html`, `competitions.html`: one page per button (currently placeholders)
 - `style.css`: colours, layout and responsive styles
 - `script.js`: small extras such as the footer year
 
 ## Edit the content
 
-Open `index.html` and replace the placeholder text:
-
-- Your name and tagline in the hero section
-- The About paragraph
-- Project titles, descriptions and links (`href="#"` should point to each project)
-- Skills list
-- Email address (`you@example.com`) and social links
+Open any of the section pages (e.g. `projects.html`) and replace the `Content coming soon.` placeholder with your own content. The buttons on `index.html` already link to each page.
 
 ## Preview locally
 
